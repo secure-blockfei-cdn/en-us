@@ -1,0 +1,39 @@
+
+.faq{
+    background-color: black;
+    padding: 5em 5em;
+}
+.faq h1{
+    color: aliceblue;
+    font-weight: 800;
+}
+
+.headone h1{
+    margin-left: -400px;
+}
+.headone p{
+    margin-left: -200px;
+}
+.headone button{
+    margin-left: -700px;
+}
+
+.content-content{
+    padding: 5em 4em;
+}
+.footer {
+    background: #0d1530;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  .footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .footer-links a {
+    text-decoration: none;
+    color: #007bff;
+  }
